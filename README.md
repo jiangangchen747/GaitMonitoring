@@ -3,7 +3,7 @@
 > Official github repository for **A Wearable Gait Monitoring System for 17 Gait Parameters Based on Computer Vision**. 
 > 
 > Please refer to [paper link](https://arxiv.org/abs/2411.10739) for detailed information.
-<img src="./Main figure.png"/>
+<img src="./Main figure.png"/ width="1057" height="924">
 
 ## Requirements
 
@@ -22,3 +22,6 @@ Supports for other platforms and hardwares are possible with no warrant.
   year={2024}
 }
 ```
+
+## Acknowledgments
+This work was supported by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the U.S. National Institutes of Health (NIH) under award number R01EB019460.
