@@ -3,7 +3,7 @@
 > Official github repository for **A Wearable Gait Monitoring System for 17 Gait Parameters Based on Computer Vision**. 
 > 
 > Please refer to [paper link](https://arxiv.org/abs/2411.10739) for detailed information.
-<img src="./Main figure.png"/ width="1057" height="924">
+<img src="./Main figure.png"/>
 
 ## Requirements
 
