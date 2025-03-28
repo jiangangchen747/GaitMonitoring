@@ -24,4 +24,4 @@ Supports for other platforms and hardwares are possible with no warrant.
 ```
 
 ## Acknowledgments
-This work was supported by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the U.S. National Institutes of Health (NIH) under award number R01EB019460.
+The computer vision algorithm utilized in this work was separately developed under a grant by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the U.S. National Institutes of Health (Grant number R01EB019460). 
