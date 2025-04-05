@@ -2,7 +2,7 @@
 
 > Official github repository for **A Wearable Gait Monitoring System for 17 Gait Parameters Based on Computer Vision**. 
 > 
-> Please refer to [paper link](https://arxiv.org/abs/2411.10739) for detailed information.
+> Please refer to [paper link](https://ieeexplore.ieee.org/document/10949218) for detailed information.
 <img src="./Main figure.png" width="792"/>
 
 ## Requirements
@@ -15,12 +15,16 @@ Supports for other platforms and hardwares are possible with no warrant.
 
 ## Citation
 ```
-@article{chen2024wearable,
-  title={A Wearable Gait Monitoring System for 17 Gait Parameters Based on Computer Vision},
-  author={Chen, Jiangang and Sun, Yung-Hong and Pickett, Kristen and King, Barbara and Hu, Yu Hen and Jiang, Hongrui},
-  journal={arXiv preprint arXiv:2411.10739},
-  year={2024}
-}
+@ARTICLE{10949218,
+  author={Chen, Jiangang and Sun, Yung-Hong and Pickett, Kristen A. and King, Barbara and Hu, Yu Hen and Jiang, Hongrui},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={A Wearable Gait Monitoring System for 17 Gait Parameters Based on Computer Vision}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Cameras;Calibration;Monitoring;Legged locomotion;Hardware;Footwear;Wearable devices;Sensors;Particle measurements;Imaging;Gait Monitoring;Wearable Device;Computer Vision;Stereo Camera;Transformer Model;Gait Identification},
+  doi={10.1109/TIM.2025.3557814}}
 ```
 
 ## Acknowledgments
